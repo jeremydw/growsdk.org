@@ -3,4 +3,7 @@ language: python
 python:
   - 2.7
 
-script: ./utils/grow up .
+install:
+  - "pip install grow"
+
+script: grow build .
