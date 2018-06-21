@@ -21,12 +21,12 @@ sections:
 
   - title: Develop everywhere, deploy anywhere.
     image: /static/images/deploy.svg
-    content: Grow web sites are entirely file-based and are backed by Git, with no databases for you to maintain. Development can happen on your local machine or in the cloud. Grow can build and deploy to a variety of destinations – or it can export static files for you to integrate with your custom web server.
+    content: Grow web sites are entirely file-based and are backed by Git, with no databases for you to maintain. Development can happen on your local machine or in the cloud. Grow can build and deploy to a variety of destinations - or it can export static files for you to integrate with your custom web server.
 
   - title: No installation or maintenance.
     image: /static/images/zen.svg
     content: |
-        You can focus on what matters – your web sites – when you use the Grow SDK. Your projects are stored and managed entirely separate from the SDK, so you'll never have to maintain a deployed installation or deal with upgrades. Grow tests and verifies your sites every time you deploy them, and warns you when it discovers issues in your code related to web security.
+        You can focus on what matters - your web sites - when you use the Grow SDK. Your projects are stored and managed entirely separate from the SDK, so you'll never have to maintain a deployed installation or deal with upgrades. Grow tests and verifies your sites every time you deploy them, and warns you when it discovers issues in your code related to web security.
 
 banner:
   title: A swiss-army knife of dev tools for your web sites.
