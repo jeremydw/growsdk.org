@@ -89,6 +89,6 @@ banner:
           link: 'https://www.dropbox.com'
         - title: Your own custom web server
           key: custom
-foo: 52851
+foo: 47894
 ---
 # Hello World
