@@ -1,0 +1,14 @@
+fields:
+- type: text
+  key: $path
+  label: Path
+- type: text
+  key: $title
+  label: Title
+- type: text
+  key: hero.title
+  label: Hero Title
+- type: textarea
+  key: hero.content
+  label: Hero Content
+  
