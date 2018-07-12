@@ -10,6 +10,9 @@ hero:
     individual developers to large creative agencies) can save time on
     architecture and maintenance, and make time for awesome and creative front
     end web development.
+
+
+    Hero content.
   disclaimer: >-
     Thanks for checking out Grow! We're still *experimental* and in heavy
     development, including the documentation. We may make backwards incompatible
@@ -96,5 +99,7 @@ foo: 60232
 I am using my editor to write this content.
 
 Here's a cool prototype!
+
+Testing body content.
 
 Testing writing another line.
