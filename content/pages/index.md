@@ -3,7 +3,7 @@ $path: /
 $view: /views/index.html
 $title: Home
 hero:
-  title: Updating the title. Hello World!
+  title: Updating the title.
   content: >-
     The Grow SDK is a free and open source system for modern, rapid,
     collaborative web site management and production. With Grow, everyone (from
